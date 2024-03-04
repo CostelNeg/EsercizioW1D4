@@ -1,0 +1,113 @@
+body {
+  background-color: whitesmoke;
+  margin: 0%;
+}
+#logo {
+  background: #090925;
+  padding-left: 2em;
+}
+#logo img {
+  width: 10em;
+}
+.navbar {
+  background-color: rgb(23, 48, 49);
+}
+ul {
+  display: inline-block;
+  padding: 0%;
+  margin: 0%;
+}
+.navbar li {
+  list-style-type: none;
+  display: inline;
+  margin: 2rem;
+  color: aliceblue;
+}
+.top-main p {
+  text-align: center;
+  background-color: rgb(255, 72, 0);
+  color: aliceblue;
+  margin: 1em 2em 1em 2em;
+  padding: 0.2em;
+}
+.guideGift {
+  color: aliceblue;
+  text-align: center;
+  background-image: url(/assets/assets/bg-image.png);
+  background-size: contain;
+  padding: 3em;
+  margin: 1em 2em 1em 2em;
+}
+.perfectGift {
+  display: inline-block;
+  background-color: white;
+  margin: 1rem 2rem 1rem 2rem;
+}
+.perfectGift p {
+  text-decoration: none;
+  margin-left: 1em;
+  display: inline-block;
+}
+.perfectGift a {
+  display: inline-block;
+  text-decoration: none;
+}
+.articolo{
+  display: inline-block;
+  width: 100%;
+}
+.articolo img {
+  border-radius: 4%;
+  width: 100%;
+  height: 225px;
+}
+.imgArticolo {
+  margin: 0.6em;
+  display: inline-block;
+  width: 23%;
+}
+.dedicatedArea {
+  margin-top: 0%;
+  margin: 1rem 2rem 1rem 2rem;
+  display: inline-block;
+  width: auto;
+  height: auto;
+  text-align: center;
+}
+.dedicatedArea p{
+  margin-top: 0%;
+  display: inline-block;
+}
+.dedicatedArea a {
+  text-decoration: none;
+  color: blue;
+  margin-left: 1em;
+  font-weight: bold;
+  display: inline-block;
+}
+.dedicatedArea > img {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}
+.footer a {
+  display: inline-block;
+  color: aliceblue;
+  padding: 1em;
+}
+.footer p{
+  text-align: center;
+  margin: 0%;
+}
+.backTop{
+  background-color: #090925;
+}
+.logo{
+  margin: 0%;
+  padding: 1em;
+  background: rgb(39, 38, 38);
+  text-align: center;
+}
+.logo img{
+  width: 15em;
+}
